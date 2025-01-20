@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Ulang Tahun, Baiq Inna!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0e4d7;
+            color: #4e4b3e;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #e74c3c;
+        }
+        .message {
+            font-size: 20px;
+            margin-top: 20px;
+            color: #2c3e50;
+        }
+        .signature {
+            font-size: 24px;
+            margin-top: 30px;
+            color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎉 Selamat Ulang Tahun, Baiq Inna Dwi Hardyningrat! 🎉</h1>
+    <p class="message">
+Baiq Inna Dwi Hardyningrat, hari ini adalah hari yang sangat istimewa untuk seseorang yang memenuhi hidupku dengan cinta dan kebahagiaan. Selama hampir tiga tahun ini, Ayang telah menjadi sumber kekuatan, tawa, dan semangatku.
+
+Terima kasih, Ayangku, sudah selalu ada di sisiku, menjadi pelengkap hidupku, dan membuat setiap hari terasa lebih indah. Aku merasa sangat beruntung bisa mencintai dan dicintai oleh seseorang seistimewa Ayang.
+
+Di hari ulang tahun Ayang ini, aku berdoa semoga Ayang selalu diberikan kesehatan, kebahagiaan yang tak terhingga, dan keberkahan dalam setiap langkah. Semoga semua impian Ayang satu per satu terwujud, dan perjalanan kita bersama selalu dipenuhi kebahagiaan.
+
+Aku bersyukur atas setiap momen yang kita habiskan bersama, dan aku harap perjalanan cinta kita terus bertumbuh hingga selamanya.
+
+Selamat ulang tahun, Ayangku tersayang. Aku cinta Ayang hari ini, esok, dan seterusnya. 💖
+    <p class="signature">
+        Dengan cinta, <br>Pacarmu yang selalu mencintaimu, 💖
+    </p>
+</body>
+</html>
