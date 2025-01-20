@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday, Sayangku!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f1e4;
+            color: #2c3e50;
+            text-align: center;
+            padding: 30px;
+        }
+        h1 {
+            color: #e74c3c;
+            font-size: 2.5em;
+        }
+        p {
+            font-size: 1.3em;
+            margin-top: 20px;
+            line-height: 1.6;
+            color: #34495e;
+        }
+        .signature {
+            font-size: 1.5em;
+            color: #2980b9;
+            margin-top: 40px;
+        }
+        .heart {
+            font-size: 2em;
+            color: #e74c3c;
+        }
+    </style>
+</head>
+<body>
+    <h1>Happy Birthday, Sayangku! 🎉</h1>
+    <p>
+        Baiq Inna Dwi Hardyningrat, hari ini adalah hari yang sangat istimewa untuk seseorang yang memenuhi hidupku dengan cinta dan kebahagiaan. Selama hampir tiga tahun ini, Ayang telah menjadi sumber kekuatan, tawa, dan semangatku.
+    </p>
+    <p>
+        Terima kasih, Ayangku, sudah selalu ada di sisiku, menjadi pelengkap hidupku, dan membuat setiap hari terasa lebih indah. Aku merasa sangat beruntung bisa mencintai dan dicintai oleh seseorang seistimewa Ayang.
+    </p>
+    <p>
+        Di hari ulang tahun Ayang ini, aku berdoa semoga Ayang selalu diberikan kesehatan, kebahagiaan yang tak terhingga, dan keberkahan dalam setiap langkah. Semoga semua impian Ayang satu per satu terwujud, dan perjalanan kita bersama selalu dipenuhi kebahagiaan.
+    </p>
+    <p>
+        Aku bersyukur atas setiap momen yang kita habiskan bersama, dan aku harap perjalanan cinta kita terus bertumbuh hingga selamanya.
+    </p>
+    <p class="signature">
+        Selamat ulang tahun, Ayangku tersayang. Aku cinta Ayang hari ini, esok, dan seterusnya. 💖
+    </p>
+</body>
+</html>
